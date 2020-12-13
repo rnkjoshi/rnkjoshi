@@ -1,1 +1,1 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rnkjoshi&count_private=true&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rnkjoshi&count_private=true&show_icons=true&theme=dark&bg_color=315deg, #000000 0%, #414141 7)
