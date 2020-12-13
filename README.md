@@ -1,1 +1,1 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rnkjoshi&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rnkjoshi&count_private=true&show_icon=true&theme=dark,prs)
